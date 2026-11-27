@@ -24,7 +24,7 @@
 
 ### Slide 1: `3.1 Đặc điểm mẫu khảo sát` (Thay cho Bảng 3.1)
 
-![Slide 1 – 3.1 Đặc điểm mẫu khảo sát](C:/Users/ADMIN/.gemini/antigravity/brain/9459f3a2-b40d-4cf0-b9d0-db99cbd1a81b/slide_1_dac_diem_mau.png)
+![Slide 1 – 3.1 Đặc điểm mẫu khảo sát](slide_1_dac_diem_mau.png)
 
 - **Cách rút gọn:** Thay 14 dòng bảng thành **3 thẻ đồ họa ngang** (`01` Biểu đồ tròn khối lớp, `02` Thanh ngang thời gian online + khung nhấn mạnh **70,7%**, `03` Xếp hạng nền tảng). Gom 3 nền tảng nhỏ (Instagram, Threads, Zalo — mỗi loại 2,0%) vào 1 dòng để đỡ rối mắt.
 - **Gợi ý lời nói (~25 giây):**
@@ -34,7 +34,7 @@
 
 ### Slide 2: `3.2 – 3.6 Độ tin cậy & Thực trạng giao tiếp số` (Gom 5 bảng 3.2–3.6 & 3.8 vào 1 slide)
 
-![Slide 2 – 3.2 đến 3.6 Độ tin cậy & Thực trạng giao tiếp số](C:/Users/ADMIN/.gemini/antigravity/brain/9459f3a2-b40d-4cf0-b9d0-db99cbd1a81b/slide_2_thuc_trang_likert.png)
+![Slide 2 – 3.2 đến 3.6 Độ tin cậy & Thực trạng giao tiếp số](slide_2_thuc_trang_likert.png)
 
 - **Tại sao nên gom 5 bảng vào 1 slide?** Nếu làm 4 slide riêng cho 21 phát biểu Likert, BGK sẽ bị ngộp chữ và hết thời gian cho phần Kiểm định & Giải pháp. Gom thành 1 biểu đồ thanh so sánh **4 điểm trung bình** kèm **nhãn Cronbach's α** và **vạch mốc trung lập 3,0**, bên phải chỉ rút đúng **1–2 phát biểu cao nhất mỗi nhóm** + **thanh tần suất áp lực (n = 98)** giúp BGK nắm toàn cảnh ngay lập tức.
 - **Gợi ý lời nói (~35 giây):**
@@ -45,7 +45,7 @@
 
 ### Slide 3: `3.7 Kiểm định giả thuyết & Mức độ tác động` (Trọng tâm ăn điểm khoa học)
 
-![Slide 3 – 3.7 Kiểm định giả thuyết & Mức độ tác động](C:/Users/ADMIN/.gemini/antigravity/brain/9459f3a2-b40d-4cf0-b9d0-db99cbd1a81b/slide_3_kiem_dinh_gia_thuyet.png)
+![Slide 3 – 3.7 Kiểm định giả thuyết & Mức độ tác động](slide_3_kiem_dinh_gia_thuyet.png)
 
 - **Cách trình bày nổi bật:** Gộp bảng **3.7 (Tương quan)** và **Phụ lục 2 (Hồi quy tuyến tính đa biến)** thành **sơ đồ đường tác động (Path Diagram)** bên trái — độ dày và màu sắc mũi tên cho thấy ngay **FOMO (H2)** là mũi tên vàng dày nhất, theo sau là **Quan sát thụ động (H1)**, còn **Thời lượng (H3)** và **Tự chủ (H4)** là đường nét đứt. Bên phải chốt rõ 4 thẻ kết luận giả thuyết.
 - **Gợi ý lời nói (~40 giây):**
@@ -55,7 +55,7 @@
 
 ### Slide 4: `3.8 Phát hiện cốt lõi — Cầu nối sang Giải pháp` (Điểm cộng tư duy nghiên cứu)
 
-![Slide 4 – 3.8 Phát hiện cốt lõi & Cầu nối sang Giải pháp](C:/Users/ADMIN/.gemini/antigravity/brain/9459f3a2-b40d-4cf0-b9d0-db99cbd1a81b/slide_4_insight_cau_noi.png)
+![Slide 4 – 3.8 Phát hiện cốt lõi & Cầu nối sang Giải pháp](slide_4_insight_cau_noi.png)
 
 - **Tại sao slide này rất quan trọng?** BGK KHKT luôn chấm cao **tính logic giữa Kết quả nghiên cứu (Chương 3) và Giải pháp (Chương 4)**. Slide này chốt 3 phát hiện đắt giá và chỉ rõ từng giai đoạn của mô hình **Digital Boundary Framework** được xây dựng từ chính bằng chứng số liệu nào (`H1, H2` → GĐ1; `H3, H4` → GĐ2...).
 - **Gợi ý lời nói (~30 giây):**
